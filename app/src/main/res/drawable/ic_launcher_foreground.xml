@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Microphone capsule -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M45,32C48.87,32 52,35.13 52,39V51C52,54.87 48.87,58 45,58C41.13,58 38,54.87 38,51V39C38,35.13 41.13,32 45,32Z" />
+
+    <!-- Microphone cradle arc -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M33.5,49.5C33.5,55.85 38.65,61 45,61C51.35,61 56.5,55.85 56.5,49.5"
+        android:strokeWidth="3.2"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+
+    <!-- Microphone stand & base -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M45,61V71M38.5,71H51.5"
+        android:strokeWidth="3.2"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round" />
+
+    <!-- Soundwave / transcription bars -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M62.5,45.5V56.5"
+        android:strokeWidth="3.2"
+        android:strokeColor="#6EE7B7"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M68.5,40.5V61.5"
+        android:strokeWidth="3.2"
+        android:strokeColor="#A7F3D0"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M74.5,47.5V54.5"
+        android:strokeWidth="3.2"
+        android:strokeColor="#6EE7B7"
+        android:strokeLineCap="round" />
+
+    <!-- AI Sparkle accent -->
+    <path
+        android:fillColor="#A7F3D0"
+        android:pathData="M68.5,29L70.1,33.4L74.5,35L70.1,36.6L68.5,41L66.9,36.6L62.5,35L66.9,33.4Z" />
+</vector>
